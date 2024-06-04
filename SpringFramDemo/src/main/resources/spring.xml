@@ -10,7 +10,7 @@
        http://www.springframework.org/schema/aop
        http://www.springframework.org/schema/aop/spring-aop.xsd">
 
-    <context:component-scan base-package="demo"></context:component-scan>
+<!--    <context:component-scan base-package="demo"></context:component-scan>-->
 </beans>
 
         <!--<bean id="doctor1" class="demo.Doctor">-->
